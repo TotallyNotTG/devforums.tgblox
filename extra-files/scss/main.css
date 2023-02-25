@@ -1,0 +1,74 @@
+.top-nav {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(15,15,15);
+    position: fixed;
+    margin-left: -8px;
+    margin-top: -7px;
+}
+.logo {
+    width: 205px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.main-data {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.log-in {
+    width: 80px;
+    height: 30px;
+    margin-left: 500px;
+    margin-top: 15px;
+    position: absolute;
+    border-radius: 0px;
+    border: 0px;
+    background-color: rgb(47, 116, 158);
+    cursor: pointer;
+}
+.log-in:hover {
+    background-color: rgb(38, 81, 107);
+}
+.menu {
+    width: 30px;
+    margin-left: 600px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+.main {
+    width: 1000px;
+    height: fit-content;
+    margin-left: 270px;
+    margin-top: 50px;
+    margin-right: auto;
+    position: absolute;
+}
+.forum-post {
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(50,50,50);
+    padding: 5px;
+    border-top: 2px solid rgb(70, 70, 70);
+    border-bottom: 0.5px solid rgb(70, 70, 70);
+    border-left: 4px solid rgb(238, 53, 53);
+}
+.forum-post-2 {
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(50,50,50);
+    padding: 5px;
+    border-top: 2px solid rgb(70, 70, 70);
+    border-bottom: 0.5px solid rgb(70, 70, 70);
+    border-left: 4px solid rgb(246, 162, 26);
+}
+.footer {
+    width: 1000px;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-logo {
+    margin-top: 900px;
+    width: 200px;
+}

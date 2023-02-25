@@ -1,0 +1,22 @@
+{
+    "name": "DevForum | TGBlox",
+    "short_name": "Dev Forum",
+    "description": "Dev Forums is where you can create Developer ideas, and see staff posts.",
+    "display": "standalone",
+    "start_url": ".",
+    "background_color": "#222222",
+    "theme_color": "#111111",
+    "icons": [
+        {
+            "src": "devforums.tgblox.com/images.devforums/studio_logo_blue.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/devforums.tgblox.com/images.devforums/studio_logo_blue.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

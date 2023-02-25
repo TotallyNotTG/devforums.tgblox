@@ -1,0 +1,13 @@
+document.write('<div class="main">');
+document.write('        <h1> Recent Forum Posts </h1>');
+document.write('        <div class="forum-post">');
+document.write('            <h2 class="">Welcome</h2>');
+document.write('            <p>Welcome to the DevForums. This is still in beta so there are bugs.</p>');
+document.write('        </div>');
+document.write('        <div class="forum-post-2">');
+document.write('            <h2 class="">Links</h2>');
+document.write('            <p>Other Websites</p>');
+document.write('            <a href="https://totallynottg.github.io/web.tgblox/home">Home Page</a>');
+document.write('            <a href="https://totallynottg.github.io/create.tgblox/create/creations">Create</a>');
+document.write('        </div>');
+document.write('    </div>');
