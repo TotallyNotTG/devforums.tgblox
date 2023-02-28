@@ -1,4 +1,4 @@
-document.write'<div class="main">');
+document.write('<div class="main">');
 document.write('        <h1> Recent Forum Posts </h1>');
 document.write('        <div class="forum-post">');
 document.write('            <h2 class="">Welcome</h2>');
